@@ -1,0 +1,6 @@
+framework module Pods_DemoVIP_DemoVIPUITests {
+  umbrella header "Pods-DemoVIP-DemoVIPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
